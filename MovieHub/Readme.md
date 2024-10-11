@@ -21,4 +21,4 @@ This is a terminal-based Movie Store application where users can rent or purchas
 - **data/**: Contains the JSON files to store data persistently.
 - **utils/**: Contains utility functions like payment processing and reporting.
 
-Enjoy managing your movie store with this terminal-based app!
+
